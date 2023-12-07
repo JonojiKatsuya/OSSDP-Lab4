@@ -25,7 +25,6 @@ public class Solution12Test {
         assertEquals("0", solution.multiply("0", "0"));
         assertEquals("4", solution.multiply("2", "2"));
         assertEquals("532", solution.multiply("4", "133"));
-        //assertEquals("15129", solution.multiply("123", "123"));
     }
 
     /**
